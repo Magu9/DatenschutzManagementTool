@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Login Register</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Passwort</string>
+    <string name="hint_confirm_password">Passwort bestätigen</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Registrieren</string>
+    <string name="error_message_name">Vollständigen Namen eingeben</string>
+    <string name="error_message_email">Email Adresse eingeben</string>
+    <string name="error_message_age">Alter eingeben</string>
+    <string name="error_message_password">Passwort eingeben</string>
+    <string name="success_message">Registrierung Erfolgreich</string>
+    <string name="text_not_member">Noch keinen Account? Erstelle neuen Account.</string>
+    <string name="text_already_member">Schon registriert? Login</string>
+    <string name="error_email_exists">Email existiert bereits</string>
+    <string name="error_password_match">Passwörter stimmen nicht überein</string>
+    <string name="error_valid_email_password">Falsche Email oder Passwort</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">.</string>
+    <string name="menu_button_vvt">Verarbeitungstätigkeiten</string>
+    <string name="menu_button_gesetz">Gesetze</string>
+    <string name="menu_button_systems">Systeme</string>
+    <string name="menu_button_toms">TOMS</string>
+    <string name="menu_button_report">Reports</string>
+    <string name="menu_dummy_name">Eingeloggt als yyy</string>
+</resources>
